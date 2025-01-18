@@ -1,1 +1,1 @@
-# PHP-project-uni
+# This is a PHP university project
